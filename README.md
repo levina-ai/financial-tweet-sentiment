@@ -6,6 +6,14 @@ This repository benchmarks multiple NLP approaches for **financial tweet sentime
 - **2 — Neutral**
 
 It is part of a **Text Mining / NLP course project** and focuses on comparing classic ML baselines vs transformer-based methods under a consistent evaluation setup.
+The final selected model achieved the following performance on the **out-of-sample test set**:
+
+- **Precision (macro):** 0.859965  
+- **Recall (macro):** 0.884620  
+- **Accuracy:** 0.897822  
+- **F1-score (macro):** 0.871604  
+
+In the course-wide benchmark, the final submission ranked **3rd overall**.
 
 ## What’s inside
 
